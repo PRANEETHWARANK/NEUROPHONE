@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.neurophone.app.NeuroPhoneUnitTests" tests="7" skipped="0" failures="0" errors="0" timestamp="2026-09-12T18:01:12" hostname="PAVILIONPLUS-16" time="0.04">
+  <properties/>
+  <testcase name="testAutoencoderAnomalyDetection" classname="com.neurophone.app.NeuroPhoneUnitTests" time="0.006"/>
+  <testcase name="testLstmRecurrentForwardAndLoss" classname="com.neurophone.app.NeuroPhoneUnitTests" time="0.015"/>
+  <testcase name="testMlpForwardAndTraining" classname="com.neurophone.app.NeuroPhoneUnitTests" time="0.002"/>
+  <testcase name="testTransformerMultiHeadAttentionForward" classname="com.neurophone.app.NeuroPhoneUnitTests" time="0.002"/>
+  <testcase name="testGestureSequenceNormalization" classname="com.neurophone.app.NeuroPhoneUnitTests" time="0.003"/>
+  <testcase name="testMultimodalFusionEngine" classname="com.neurophone.app.NeuroPhoneUnitTests" time="0.011"/>
+  <testcase name="testGruForwardPass" classname="com.neurophone.app.NeuroPhoneUnitTests" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,62 @@
+com.neurophone.app-camera-core-1.3.4-0 C:\Users\PRANEETHWARAN K\.gradle\caches\8.9\transforms\0a0f5c4c38185f0511f5fe72fad211a3\transformed\camera-core-1.3.4\res
+com.neurophone.app-ui-graphics-release-1 C:\Users\PRANEETHWARAN K\.gradle\caches\8.9\transforms\0fd6b1028c9783673b5bed6183042e61\transformed\ui-graphics-release\res
+com.neurophone.app-emoji2-1.3.0-2 C:\Users\PRANEETHWARAN K\.gradle\caches\8.9\transforms\139fef1c9d2776d43e782b25c607785b\transformed\emoji2-1.3.0\res
+com.neurophone.app-runtime-saveable-release-3 C:\Users\PRANEETHWARAN K\.gradle\caches\8.9\transforms\1dd66db7076d113f54ae114738f197c7\transformed\runtime-saveable-release\res
+com.neurophone.app-ui-release-4 C:\Users\PRANEETHWARAN K\.gradle\caches\8.9\transforms\21c54c574989bbf05a2e2d706d944513\transformed\ui-release\res
+com.neurophone.app-navigation-common-2.7.7-5 C:\Users\PRANEETHWARAN K\.gradle\caches\8.9\transforms\3c1476127066018c3976070ec4eadc74\transformed\navigation-common-2.7.7\res
+com.neurophone.app-activity-ktx-1.9.1-6 C:\Users\PRANEETHWARAN K\.gradle\caches\8.9\transforms\3c392d4765e012f0348bd05e35601ebe\transformed\activity-ktx-1.9.1\res
+com.neurophone.app-navigation-runtime-2.7.7-7 C:\Users\PRANEETHWARAN K\.gradle\caches\8.9\transforms\400db9307b09779fab0b691f09fb55e4\transformed\navigation-runtime-2.7.7\res
+com.neurophone.app-lifecycle-process-2.8.4-8 C:\Users\PRANEETHWARAN K\.gradle\caches\8.9\transforms\40434fe7d53af9b80a9c456825aa964f\transformed\lifecycle-process-2.8.4\res
+com.neurophone.app-foundation-release-9 C:\Users\PRANEETHWARAN K\.gradle\caches\8.9\transforms\41b01e60e44b88da6b6ecb7dcb1c788e\transformed\foundation-release\res
+com.neurophone.app-ui-geometry-release-10 C:\Users\PRANEETHWARAN K\.gradle\caches\8.9\transforms\45b6464de6c5152c399b287deea54d4b\transformed\ui-geometry-release\res
+com.neurophone.app-camera-lifecycle-1.3.4-11 C:\Users\PRANEETHWARAN K\.gradle\caches\8.9\transforms\47eb8de4185c660e9b6459c3ce3ee965\transformed\camera-lifecycle-1.3.4\res
+com.neurophone.app-ui-util-release-12 C:\Users\PRANEETHWARAN K\.gradle\caches\8.9\transforms\4f4072201fabc86cf1d407df4f8ccddd\transformed\ui-util-release\res
+com.neurophone.app-lifecycle-viewmodel-compose-release-13 C:\Users\PRANEETHWARAN K\.gradle\caches\8.9\transforms\5109c479ff32ef6df7e052b4decb8074\transformed\lifecycle-viewmodel-compose-release\res
+com.neurophone.app-core-runtime-2.2.0-14 C:\Users\PRANEETHWARAN K\.gradle\caches\8.9\transforms\5c4410df3da3a83ae2607805d9e9c73a\transformed\core-runtime-2.2.0\res
+com.neurophone.app-material-ripple-release-15 C:\Users\PRANEETHWARAN K\.gradle\caches\8.9\transforms\5cc7cb0b7409a9a51130cc11e6b95cfe\transformed\material-ripple-release\res
+com.neurophone.app-runtime-release-16 C:\Users\PRANEETHWARAN K\.gradle\caches\8.9\transforms\631a2355fce750a1dc1935ec4525436d\transformed\runtime-release\res
+com.neurophone.app-ui-tooling-preview-release-17 C:\Users\PRANEETHWARAN K\.gradle\caches\8.9\transforms\6688dee51f8fa9dcecb43be4d96d3e9c\transformed\ui-tooling-preview-release\res
+com.neurophone.app-startup-runtime-1.1.1-18 C:\Users\PRANEETHWARAN K\.gradle\caches\8.9\transforms\6ae8239bbe00e974e0b27b30e91720db\transformed\startup-runtime-1.1.1\res
+com.neurophone.app-ui-tooling-release-19 C:\Users\PRANEETHWARAN K\.gradle\caches\8.9\transforms\71bae93a0a971eb58a0820718992f53c\transformed\ui-tooling-release\res
+com.neurophone.app-animation-core-release-20 C:\Users\PRANEETHWARAN K\.gradle\caches\8.9\transforms\730cec2c76babc4f26cfe865afeb07ef\transformed\animation-core-release\res
+com.neurophone.app-core-1.13.1-21 C:\Users\PRANEETHWARAN K\.gradle\caches\8.9\transforms\75ea9556da06a2ddba1460016a6e4412\transformed\core-1.13.1\res
+com.neurophone.app-savedstate-1.2.1-22 C:\Users\PRANEETHWARAN K\.gradle\caches\8.9\transforms\786c332627c04ffb06220dec6643a503\transformed\savedstate-1.2.1\res
+com.neurophone.app-lifecycle-viewmodel-savedstate-2.8.4-23 C:\Users\PRANEETHWARAN K\.gradle\caches\8.9\transforms\787a3509ec813706b7779a2f0a3dac49\transformed\lifecycle-viewmodel-savedstate-2.8.4\res
+com.neurophone.app-ui-unit-release-24 C:\Users\PRANEETHWARAN K\.gradle\caches\8.9\transforms\798edf645012c7e2bed32468cdfa060b\transformed\ui-unit-release\res
+com.neurophone.app-appcompat-resources-1.1.0-25 C:\Users\PRANEETHWARAN K\.gradle\caches\8.9\transforms\7abda6261294a3d460b8c49824238bd1\transformed\appcompat-resources-1.1.0\res
+com.neurophone.app-camera-camera2-1.3.4-26 C:\Users\PRANEETHWARAN K\.gradle\caches\8.9\transforms\7b659b321fe06228fd03e4efa1b7919e\transformed\camera-camera2-1.3.4\res
+com.neurophone.app-ui-test-manifest-1.6.8-27 C:\Users\PRANEETHWARAN K\.gradle\caches\8.9\transforms\80ff57d83f04587dc1521e3d80a56957\transformed\ui-test-manifest-1.6.8\res
+com.neurophone.app-lifecycle-livedata-core-ktx-2.8.4-28 C:\Users\PRANEETHWARAN K\.gradle\caches\8.9\transforms\84220b7eb2f25dfc1e05e440b1999870\transformed\lifecycle-livedata-core-ktx-2.8.4\res
+com.neurophone.app-lifecycle-runtime-release-29 C:\Users\PRANEETHWARAN K\.gradle\caches\8.9\transforms\84a1a08e67d7cd14a867e491528c5725\transformed\lifecycle-runtime-release\res
+com.neurophone.app-lifecycle-runtime-ktx-release-30 C:\Users\PRANEETHWARAN K\.gradle\caches\8.9\transforms\878c0e6ad76a89b261597069793a658b\transformed\lifecycle-runtime-ktx-release\res
+com.neurophone.app-customview-poolingcontainer-1.0.0-31 C:\Users\PRANEETHWARAN K\.gradle\caches\8.9\transforms\9ae71d0e7098845908fe4e4aff7c9d98\transformed\customview-poolingcontainer-1.0.0\res
+com.neurophone.app-material-release-32 C:\Users\PRANEETHWARAN K\.gradle\caches\8.9\transforms\9b0790f7c65494d26ee728b50ef8881f\transformed\material-release\res
+com.neurophone.app-core-ktx-1.13.1-33 C:\Users\PRANEETHWARAN K\.gradle\caches\8.9\transforms\9be80ed33a50677396df67a8d0901b3f\transformed\core-ktx-1.13.1\res
+com.neurophone.app-foundation-layout-release-34 C:\Users\PRANEETHWARAN K\.gradle\caches\8.9\transforms\9f913831546d4d10c56b82912356c0e7\transformed\foundation-layout-release\res
+com.neurophone.app-navigation-common-ktx-2.7.7-35 C:\Users\PRANEETHWARAN K\.gradle\caches\8.9\transforms\a2c7956256c22657b3d4aaa88f9249c7\transformed\navigation-common-ktx-2.7.7\res
+com.neurophone.app-profileinstaller-1.3.1-36 C:\Users\PRANEETHWARAN K\.gradle\caches\8.9\transforms\a32939e4304f2e550433c222a70792ec\transformed\profileinstaller-1.3.1\res
+com.neurophone.app-activity-1.9.1-37 C:\Users\PRANEETHWARAN K\.gradle\caches\8.9\transforms\ad37a0037731e7b045cf974057e29334\transformed\activity-1.9.1\res
+com.neurophone.app-lifecycle-livedata-core-2.8.4-38 C:\Users\PRANEETHWARAN K\.gradle\caches\8.9\transforms\b0c1d5028fefe97447d15436b88a74ff\transformed\lifecycle-livedata-core-2.8.4\res
+com.neurophone.app-animation-release-39 C:\Users\PRANEETHWARAN K\.gradle\caches\8.9\transforms\b45df90488ec12507baf8fac0eb54394\transformed\animation-release\res
+com.neurophone.app-lifecycle-viewmodel-ktx-2.8.4-40 C:\Users\PRANEETHWARAN K\.gradle\caches\8.9\transforms\c0d2d1c8b5efa159a7b67489a7d2dfa2\transformed\lifecycle-viewmodel-ktx-2.8.4\res
+com.neurophone.app-ui-text-release-41 C:\Users\PRANEETHWARAN K\.gradle\caches\8.9\transforms\c151a7d2afc86b5bc88935387721e7ef\transformed\ui-text-release\res
+com.neurophone.app-annotation-experimental-1.4.0-42 C:\Users\PRANEETHWARAN K\.gradle\caches\8.9\transforms\c3dc1750e8cfef5e4e8e8770a316782c\transformed\annotation-experimental-1.4.0\res
+com.neurophone.app-camera-view-1.3.4-43 C:\Users\PRANEETHWARAN K\.gradle\caches\8.9\transforms\c7b9092cca20e322a4888e5adb826f44\transformed\camera-view-1.3.4\res
+com.neurophone.app-lifecycle-livedata-2.8.4-44 C:\Users\PRANEETHWARAN K\.gradle\caches\8.9\transforms\d16188dd46e7e3da1b6b55487b57d87a\transformed\lifecycle-livedata-2.8.4\res
+com.neurophone.app-appcompat-1.1.0-45 C:\Users\PRANEETHWARAN K\.gradle\caches\8.9\transforms\d23c1c1a9d91d52b8fe177758fc6d017\transformed\appcompat-1.1.0\res
+com.neurophone.app-material-icons-core-release-46 C:\Users\PRANEETHWARAN K\.gradle\caches\8.9\transforms\d817cb17b0fe8d6a064b46470b521401\transformed\material-icons-core-release\res
+com.neurophone.app-camera-video-1.3.4-47 C:\Users\PRANEETHWARAN K\.gradle\caches\8.9\transforms\d9bd08f0677b97b54bba213427c2c494\transformed\camera-video-1.3.4\res
+com.neurophone.app-material-icons-extended-release-48 C:\Users\PRANEETHWARAN K\.gradle\caches\8.9\transforms\defe7be71e27abf6499d6fa300028d94\transformed\material-icons-extended-release\res
+com.neurophone.app-navigation-compose-2.7.7-49 C:\Users\PRANEETHWARAN K\.gradle\caches\8.9\transforms\ebde1243fd2195995d6f57832307e60a\transformed\navigation-compose-2.7.7\res
+com.neurophone.app-navigation-runtime-ktx-2.7.7-50 C:\Users\PRANEETHWARAN K\.gradle\caches\8.9\transforms\ee70f4f25657575c503277dff8765f44\transformed\navigation-runtime-ktx-2.7.7\res
+com.neurophone.app-lifecycle-viewmodel-release-51 C:\Users\PRANEETHWARAN K\.gradle\caches\8.9\transforms\ee950da7ae031b133dbf50e59b44ec65\transformed\lifecycle-viewmodel-release\res
+com.neurophone.app-ui-tooling-data-release-52 C:\Users\PRANEETHWARAN K\.gradle\caches\8.9\transforms\f121599d5d5e3bd55da4f4ad79047379\transformed\ui-tooling-data-release\res
+com.neurophone.app-material3-release-53 C:\Users\PRANEETHWARAN K\.gradle\caches\8.9\transforms\f1615a438ba613ff2f7bf8cb39a910b3\transformed\material3-release\res
+com.neurophone.app-savedstate-ktx-1.2.1-54 C:\Users\PRANEETHWARAN K\.gradle\caches\8.9\transforms\f6794163666710ac38d7cec68ce67a59\transformed\savedstate-ktx-1.2.1\res
+com.neurophone.app-activity-compose-1.9.1-55 C:\Users\PRANEETHWARAN K\.gradle\caches\8.9\transforms\fd670d413f63d7ddf301717b528061b7\transformed\activity-compose-1.9.1\res
+com.neurophone.app-resValues-56 D:\SEMESTER 5\DEEP LEARNING AND NURAL NETWORK\MINIPROJECT\app\build\generated\res\resValues\debug
+com.neurophone.app-packageDebugResources-57 D:\SEMESTER 5\DEEP LEARNING AND NURAL NETWORK\MINIPROJECT\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.neurophone.app-packageDebugResources-58 D:\SEMESTER 5\DEEP LEARNING AND NURAL NETWORK\MINIPROJECT\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.neurophone.app-debug-59 D:\SEMESTER 5\DEEP LEARNING AND NURAL NETWORK\MINIPROJECT\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.neurophone.app-debug-60 D:\SEMESTER 5\DEEP LEARNING AND NURAL NETWORK\MINIPROJECT\app\src\debug\res
+com.neurophone.app-main-61 D:\SEMESTER 5\DEEP LEARNING AND NURAL NETWORK\MINIPROJECT\app\src\main\res
